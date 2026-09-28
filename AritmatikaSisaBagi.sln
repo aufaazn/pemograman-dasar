@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AritmatikaSisaBagi", "AritmatikaSisaBagi\AritmatikaSisaBagi.csproj", "{999372CF-3E72-4EA3-830B-AA567474F22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999372CF-3E72-4EA3-830B-AA567474F22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999372CF-3E72-4EA3-830B-AA567474F22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999372CF-3E72-4EA3-830B-AA567474F22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999372CF-3E72-4EA3-830B-AA567474F22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22818128-4FD5-42EE-9F75-1416B0CA5A5F}
+	EndGlobalSection
+EndGlobal
