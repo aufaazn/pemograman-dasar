@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan Siswa - Soal 3  Materi Kondisi Dan Pemilihan", "Latihan Siswa - Soal 3  Materi Kondisi Dan Pemilihan\Latihan Siswa - Soal 3  Materi Kondisi Dan Pemilihan.csproj", "{5D35967C-5A3D-4022-979C-33948EB78286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D35967C-5A3D-4022-979C-33948EB78286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D35967C-5A3D-4022-979C-33948EB78286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D35967C-5A3D-4022-979C-33948EB78286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D35967C-5A3D-4022-979C-33948EB78286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC4AD12-BB41-46F5-9D81-DE4799C18F92}
+	EndGlobalSection
+EndGlobal
