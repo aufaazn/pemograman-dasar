@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoh 4_Menghitung jumlah elemen yang memenuhi syarat", "Contoh 4_Menghitung jumlah elemen yang memenuhi syarat\Contoh 4_Menghitung jumlah elemen yang memenuhi syarat.csproj", "{2A9D23FB-F47F-4E07-BD1A-1F4A1C7B552F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9D23FB-F47F-4E07-BD1A-1F4A1C7B552F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D23FB-F47F-4E07-BD1A-1F4A1C7B552F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D23FB-F47F-4E07-BD1A-1F4A1C7B552F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D23FB-F47F-4E07-BD1A-1F4A1C7B552F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF510CA-0683-4FD1-BE73-2E75A7D2E607}
+	EndGlobalSection
+EndGlobal
