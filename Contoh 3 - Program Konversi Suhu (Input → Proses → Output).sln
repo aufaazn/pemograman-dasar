@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoh 3 - Program Konversi Suhu (Input → Proses → Output)", "Contoh 3 - Program Konversi Suhu (Input → Proses → Output)\Contoh 3 - Program Konversi Suhu (Input → Proses → Output).csproj", "{F6143E6B-8EA7-496E-8841-8C17A6F647A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6143E6B-8EA7-496E-8841-8C17A6F647A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6143E6B-8EA7-496E-8841-8C17A6F647A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6143E6B-8EA7-496E-8841-8C17A6F647A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6143E6B-8EA7-496E-8841-8C17A6F647A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F64ACFF8-2AF7-4F4D-87ED-B4F736D75218}
+	EndGlobalSection
+EndGlobal
